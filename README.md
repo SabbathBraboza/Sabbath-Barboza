@@ -1,9 +1,6 @@
-# 💫 About Me:
-  👋 Hi, I'm Sabbath Barboza <br/>
-  👩🏻‍💻 Unity Game Developer <br/>
-  👩🏻‍🎓 Studied Bachelor of Science in Information Technology(BSc IT) At Sanpada College of Commerce and Technology, Navi Mumbai, India <br/>
-  🌷 I m Still Learning Unity Game Engine<br/>
-      I Love Playing Game <br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Sabbath+Barboza;" />
+</h1>
      
       
 # 💻 Tech Stack:
