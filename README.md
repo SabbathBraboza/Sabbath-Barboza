@@ -40,4 +40,5 @@
 # 📊 GitHub Stats:
 <div align=center>
   <img src ="https://streak-stats.demolab.com?user=SabbathBraboza&theme=chartreuse-dark&border_radius=5)(https://git.io/streak-stats)"/>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbathBraboza&layout=compact)"/>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbathBraboza&layout=compact"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=SabbathBraboza&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark"/>
