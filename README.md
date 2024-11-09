@@ -40,3 +40,4 @@
 # 📊 GitHub Stats:
 <div align=center>
   <img src ="https://streak-stats.demolab.com?user=SabbathBraboza&theme=chartreuse-dark&border_radius=5)(https://git.io/streak-stats)"/>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbathBraboza&layout=compact)"/>
